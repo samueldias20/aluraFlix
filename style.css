@@ -1,0 +1,24 @@
+
+body{
+    background-color: rgb(0, 255, 221) Coloque a cor de preferência no fundo da pág web;
+    color: rgb(0, 98, 236) cor da letra do corpo da página
+}
+
+
+
+
+.chamada-texto{
+    margin-right: 100px;
+}
+
+
+img{
+    height: 200px;
+}
+
+
+.categoria-vídeos{
+display: flex;
+overflow-x:auto;
+gap: 20px;
+}
